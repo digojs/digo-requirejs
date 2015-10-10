@@ -1,0 +1,19 @@
+{
+    "name": "digo-requirejs",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-requirejs",
+    "description": "digo 插件：使用 requirejs 打包 AMD 模块",
+    "keywords": [
+        "digo plugin",
+        "requirejs",
+        "amd"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "requirejs": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
